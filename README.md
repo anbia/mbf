@@ -8,7 +8,7 @@
 
 ## Picture
 
-<img src ="https://github.com/anbia/mbf/blob/master/Screenshot_2020-08-04-18-14-26-96.png" />
+<img src ="https://github.com/anbia/mbf/blob/master/Screenshot_2020-08-18-13-48-03-30.png" />
 
 # Feature
 * Loginya Pake Cookie Bro
