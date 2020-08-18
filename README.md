@@ -1,6 +1,7 @@
 ## Multi Brute Force
 * [Picture](#Picture)
 * [Instalation](#installation)
+* [Logout](#logout)
 * [Feature](#feature)
 * [YOUTUBE](#youtube)
 * [DONATE](#donate)
@@ -21,6 +22,10 @@ $ pkg update && pkg upgrade
 $ pkg install git
 $ git clone https://github.com/anbia/mbf.git
 $ bash setup.sh
+```
+## Logout
+```
+rm cookies
 ```
 
 ## YOUTUBE
